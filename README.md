@@ -3,9 +3,7 @@
   <p>
     This is a simple React app to manage your expenses. With this app, you can easily keep track of your expenses, add new expenses, and remove expenses. You can also filter your expenses by year, which makes it easier to analyze your spending habits.
   </p>
-  <p>
-    I built this app myself by following the online Udemy course "React - The Complete Guide (incl Hooks, React Router, Redux)". After completing, I added the functionality to remove an expense, which was not included in the original course.
-  </p>
+  
 </div>
 <div>
   <h2>Available Scripts</h2>
